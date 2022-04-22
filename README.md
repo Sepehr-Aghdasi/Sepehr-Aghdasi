@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js-Git**
 
-- 💬 Ask me about **HTML-CSS(scss)-Javascript-Jquery**
+- 💬 Ask me about **HTML-CSS(Sass)-JavaScript-jQuery**
 
 - 📝 If you would like to know more about me, please look at my [twitter](https://twitter.com/Sepehr_Aghdasi) page
 
