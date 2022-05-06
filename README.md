@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepehr-aghdasi82&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-aghdasi82" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sepehr_aghdasi" target="blank"><img src="https://img.shields.io/twitter/follow/sepehr_aghdasi?logo=twitter&style=for-the-badge" alt="sepehr_aghdasi" /></a> </p>
-
 - 🌱 I’m currently learning **Vue.js-Git**
 
 - 💬 Ask me about **HTML-CSS(Sass)-JavaScript-jQuery**
