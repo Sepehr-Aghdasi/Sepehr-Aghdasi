@@ -9,6 +9,9 @@
 
 - 📝 If you would like to know more about me, please look at my [twitter](https://twitter.com/Sepehr_Aghdasi) page
 
+<br />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sepehr-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sepehr-code" height="30" width="40" /></a>
@@ -16,6 +19,7 @@
 <a href="https://linkedin.com/in/sepehr-aghdasi-1794321b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sepehr-aghdasi-1794321b8" height="30" width="40" /></a>
 <a href="https://instagram.com/sepehr_aghdasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sepehr-aghdasi" height="30" width="40" /></a>
 </p>
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -30,8 +34,14 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
+<br />
+
+<h2>⚙️ GitHub Analytics:</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sepehr-aghdasi82&show_icons=true&locale=en&layout=compact" alt="sepehr-aghdasi82" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr-aghdasi82&show_icons=true&locale=en" alt="sepehr-aghdasi82" /></p>
 
+<br />
+
+<h2>🔒 Github Streak:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sepehr-aghdasi82&" alt="sepehr-aghdasi82" /></p>
