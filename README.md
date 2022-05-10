@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepehr-aghdasi82&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-aghdasi82" /> </p>
 
-- 🌱 I’m currently learning **Vue.js-Git**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **HTML-CSS(Sass)-JavaScript-jQuery**
 
