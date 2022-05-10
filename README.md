@@ -9,8 +9,6 @@
 
 - 📝 If you would like to know more about me, please look at my [twitter](https://twitter.com/Sepehr_Aghdasi) page
 
-<br />
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
