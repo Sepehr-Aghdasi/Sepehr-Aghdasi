@@ -34,7 +34,7 @@
 <br />
 
 <h2>⚙️ GitHub Analytics:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sepehr-aghdasi82&show_icons=true&locale=en&layout=compact" alt="sepehr-aghdasi82" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sepehr-Aghdasi82" alt="sepehr-aghdasi82" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr-aghdasi82&show_icons=true&locale=en" alt="sepehr-aghdasi82" /></p>
 
