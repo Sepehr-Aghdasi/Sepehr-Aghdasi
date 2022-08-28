@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepehr-aghdasi82&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-aghdasi82" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **HTML-CSS(Sass)-JavaScript-jQuery**
+- 💬 Ask me about **HTML-CSS(Sass)-JavaScript-TypeScript**
 
 - 📝 If you would like to know more about me, please look at my [linkedin](https://linkedin.com/in/Sepehr-Aghdasi/) page
 
