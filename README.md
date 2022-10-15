@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sepehr Aghdasi</h1>
 <h3 align="center">A passionate Front-End developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sepehr-aghdasi82&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-aghdasi82" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sepehr-aghdasi&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-aghdasi" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
@@ -31,11 +31,11 @@
 <br />
 
 <h2>⚙️ GitHub Analytics:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sepehr-Aghdasi82" alt="sepehr-aghdasi82" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sepehr-Aghdasi&hide=html" alt="sepehr-aghdasi" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr-aghdasi82&show_icons=true&locale=en" alt="sepehr-aghdasi82" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr-aghdasi&show_icons=true&locale=en" alt="sepehr-aghdasi" /></p>
 
 <br />
 
 <h2>🔒 Github Streak:</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sepehr-aghdasi82&" alt="sepehr-aghdasi82" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sepehr-aghdasi&" alt="sepehr-aghdasi" /></p>
