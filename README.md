@@ -6,9 +6,9 @@
 <img src="https://komarev.com/ghpvc/?username=sepehr-aghdasi&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-aghdasi" />
 </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning Back-End****
 
-- 💬 Ask me about **HTML-CSS(Sass)-JavaScript-TypeScript**
+- 💬 Ask me about **Angular-TypeScript-JavaScript-RXjs-HTML-CSS(Sass)**
 
 - 📝 If you would like to know more about me, please look at my [linkedin](https://linkedin.com/in/Sepehr-Aghdasi) page
 
