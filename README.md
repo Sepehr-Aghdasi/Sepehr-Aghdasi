@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=sepehr-aghdasi&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-aghdasi" />
 </p>
 
-- 🌱 I’m currently learning Back-End****
+- 🌱 I’m currently learning **Back-End**
 
 - 💬 Ask me about **Angular-TypeScript-JavaScript-RXjs-HTML-CSS(Sass)**
 
